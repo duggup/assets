@@ -1,4 +1,4 @@
-Thank you for using Duggup ("the Website"), a question-and-answer platform. This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you interact with our Website. By accessing or using Duggup, you acknowledge and accept the practices described in this Privacy Policy.
+Thank you for using Duggup ("the Website"). This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you interact with our Website. By accessing or using Duggup, you acknowledge and accept the practices described in this Privacy Policy.
 
 ## 1. Information We Collect
 
