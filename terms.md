@@ -51,12 +51,17 @@ We may, at our discretion, suspend or terminate your access to the Website, dele
 
 These Terms shall be governed by and construed in accordance with the laws of India. Any legal action or proceeding arising out of or related to these Terms or your use of the Website shall be brought exclusively in the courts of India.
 
-## 9. Refund Policy
+## 9. Cancellation and Refund Policy
 
-Any amount paid for any service or events is non-refundable. Before making any payment, you will be prompted about the same, and only once you acknowledge that you can make the payment. In case of disputes, please drop an email hello@duggup.com and we will take a look at them on a per-case basis.
+Any amount paid for any service or event is non-refundable. Before making any payment, you will be prompted about the same, and only once you acknowledge that you have read the cancellation and refund policy then you can proceed with the payment. In case of disputes, please drop an email hello@duggup.com and we will take a look at them on a per-case basis.
 
 ## 10. Contact Us
 
 If you have any questions or concerns about these Terms, please contact us at hello@duggup.com.
+
+Address:
+Relog Deeptech Pvt. Ltd.
+Mayur Gardens, 28th Cross Road, Ejipura,
+Bangalore - 560047
 
 By using Duggup, you acknowledge that you have read, understood, and agreed to these Terms and Conditions.
